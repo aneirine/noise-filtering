@@ -1,0 +1,14 @@
+com/example/noise2/filters/FilterService$1.class
+com/example/noise2/filters/FilterService.class
+com/example/noise2/filters/HampelIdentifier.class
+com/example/noise2/filters/WienerFilter.class
+com/example/noise2/mvc/ImageModel$FilterType.class
+com/example/noise2/filters/GaussianSmoothing.class
+com/example/noise2/mvc/ImageModel.class
+com/example/noise2/mvc/MainView.class
+module-info.class
+com/example/noise2/mvc/MainController.class
+com/example/noise2/filters/PeriodicNoiseFilter.class
+com/example/noise2/filters/Filtering.class
+com/example/noise2/HelloApplication.class
+com/example/noise2/filters/MedianFiltering.class
